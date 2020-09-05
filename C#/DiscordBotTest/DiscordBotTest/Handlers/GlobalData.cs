@@ -40,7 +40,7 @@ namespace DiscordBotTest.Handlers
         //If no config is found, this structure is generated as an empty config. 
         private static BotConfig GenerateNewConfig() => new BotConfig
         {
-            DiscordToken = "NzI1NDQ2NjE2Nzc3MjI4Mzc5.XvTGJw.sgbZ5f8DROWPY32ec_KOsAxdHNA",
+            DiscordToken = "Null",
             DefaultPrefix = "$",
             GameStatus = "Prefix: $",
             BlacklistedChannels = new List<ulong>()
