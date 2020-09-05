@@ -6,6 +6,11 @@
 */
 
 #unignore .cpp and .h
+!.exe
+!.dll
+!.cs
+!.sln
+!.csproj
 !.java
 !.gitignore
 !*.cpp

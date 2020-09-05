@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "DiscordBotTest": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TokenBot": "NzI1NDQ2NjE2Nzc3MjI4Mzc5.XvPTLQ.DsK81tsaZVWEyWJTyOPQEb1B-a0",
+        "Prefix": "@"
+      }
+    }
+  }
+}
